@@ -26,10 +26,9 @@ Soy un apasionado de la programación que, tras estudiar **Derecho** y un **Más
 
 ### 📫 ¡Conéctate conmigo!
 
-- **GitHub**: [Tu perfil de GitHub](https://github.com/tuusuario)
-- **LinkedIn**: [Tu perfil de LinkedIn](https://linkedin.com/in/tuusuario)
-- **Correo**: [tuemail@example.com](mailto\:tuemail@example.com)
-
+- **GitHub**: https://github.com/Arevaliis?tab=repositories
+- **LinkedIn**: https://www.linkedin.com/in/jose-iglesias-ar%C3%A9valo-812860206/
+- **Correo**: joseiglesiasarevalo@gmail.com
 ---
 
 
