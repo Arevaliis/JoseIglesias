@@ -1,6 +1,4 @@
-# Jose Iglesias
-
-## 👋 ¡Hola! Soy **Jose Iglesias**
+# 👋 ¡Hola! Soy **Jose Iglesias**
 
 Soy un apasionado de la programación que, tras estudiar **Derecho** y un **Máster en Gestión de la Actividad Agroalimentaria** en la Universidad de Almería, decidí seguir mi verdadera vocación. Actualmente, estoy estudiando un **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** para profundizar en el mundo del desarrollo de software.
 
