@@ -9,7 +9,7 @@ Soy un apasionado de la programación que, tras estudiar **Derecho** y un **Más
 - 🏃‍♂️ Soy una persona activa y deportista.
 - ⚽ Amante del fútbol y fiel seguidor del **Real Madrid**.
 - 👨‍👩‍👧‍👦 Disfruto el tiempo con mi familia, pareja, amigos y, por supuesto, mi perro. 🐶
-- 🎮 Apasionado de los videojuegos, especialmente los **shooters** como **CS****:GO****, Warzone, Black Ops**, además de FIFA y el grandioso **Elden Ring** (para mí, el mejor juego de la historia 🎮🔥).
+- 🎮 Apasionado de los videojuegos, especialmente los **shooters** como CS:GO, Warzone, Black Ops**, además de FIFA y el grandioso **Elden Ring** (para mí, el mejor juego de la historia 🎮🔥).
 
 ---
 
